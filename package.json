@@ -1,0 +1,26 @@
+{
+  "name": "medifiles",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "bull": "^4.13.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "express-validator": "^7.1.0",
+    "express-winston": "^4.2.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.10.1",
+    "redis": "^4.6.14",
+    "sequelize": "^6.37.3",
+    "winston": "^3.13.0"
+  },
+  "description": ""
+}
